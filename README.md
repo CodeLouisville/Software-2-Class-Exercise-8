@@ -1,4 +1,4 @@
-# Software 2 - Class Exercise 2
+# Software 2 - Class Exercise 8
 
 # Goals
 - Add Validation
